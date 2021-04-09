@@ -1,0 +1,57 @@
+Document Tags 
+------------
+<html>
+<head>  <title> <meta> <link> <style><script>
+<body>
+Document Structure Tags 
+---------------------------
+div 
+section 
+article 
+header 
+footer 
+
+Test Formatting Tags 
+---------------------
+h1, h2, ... h6 
+span 
+bold 
+b 
+strong 
+
+---------------------
+Link  Tags  
+
+<a></a> 
+
+Image Tags 
+-------------------------
+<img src="" />
+
+List Tags  
+----------------
+<ul>  <ol> 
+<li> 
+
+Table Tags 
+---------------------
+<table> 
+<thead> <tbody>
+<tr> <th> 
+<td>
+
+HTML 5 New Tags 
+-----------------
+
+Frame Tags 
+---------------
+If you want to add Google map to your website  - we have to iframe tag 
+<iframe>
+
+Form Tags 
+------------------
+<form>
+<input >
+<label>
+<textarea>
+<select> <option>
