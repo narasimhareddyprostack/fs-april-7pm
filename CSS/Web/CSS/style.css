@@ -1,0 +1,10 @@
+h1 {
+  background-color: blue;
+}
+
+h2 {
+  background-color: brown;
+  font-family: "Courier New", Courier, monospace;
+  margin: 50 px;
+  padding-left: 20%;
+}
