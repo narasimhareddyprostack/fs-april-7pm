@@ -1,0 +1,27 @@
+h1,
+p {
+  color: tomato;
+}
+
+h2 {
+  color: thistle;
+}
+
+.btn {
+  background-color: yellow;
+}
+
+#kgf {
+  background-color: violet;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  margin: auto;
+  padding: 20%;
+}
+
+.abc {
+  color: blue;
+}
+
+#xyz {
+  color: yellow;
+}

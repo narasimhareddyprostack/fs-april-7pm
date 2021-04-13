@@ -1,0 +1,33 @@
+Selector - styles reusebility 
+
+-----------------------------
+few drawbacks in HTML 
+-few drawbacks in css, ie recovering using css Selector concept 
+----------------------
+
+
+What is selector? 
+
+h1{
+    color:blue;
+}
+
+Types of selector?
+1. Tag Selector
+2. group of tag Selector 
+3. class selector 
+4. ID Selector 
+5. group of class or / and id selector 
+6. universal Selector 
+
+CSS Selector duty is , styles reusebility
+
+Note: Nearest styles has highest prority .
+
+How many ways we can apply css to web pages?
+
+1. Inline Styles 
+2. Interanl Styles 
+3. External 
+
+
